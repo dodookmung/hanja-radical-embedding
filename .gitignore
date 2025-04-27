@@ -1,0 +1,14 @@
+# Python 관련
+__pycache__/
+*.pyc
+# 가상 환경
+venv/
+.env
+# IDE 설정
+.vscode/
+.idea/
+
+# Jupyter Notebook 관련
+.ipynb_checkpoints/
+# 데이터 관련
+data/

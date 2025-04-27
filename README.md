@@ -11,7 +11,7 @@ This study examines whether large language models (LLMs) capture the structural 
 ### Installation
 
 ```bash
-pip3 install openai pandas matplotlib scikit-learn seaborn tqdm python-dotenv umap-learn
+pip3 install langchain-openai python-dotenv tqdm pandas matplotlib scikit-learn seaborn umap-learn
 ```
 
 </br></br>

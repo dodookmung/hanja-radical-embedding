@@ -105,6 +105,13 @@ LLM을 이용하여 각 한자와 부수를 임베딩한 후, 고차원 임베�
     <td>0.3670</td>
     <td>0.2170</td>
   </tr>
+  <tr>
+    <td>colorfulscoop</td>
+    <td>sbert-base-ja</td>
+    <td>None</td>
+    <td>None</td>
+    <td>None</td>
+  </tr>
 </table>
 
 </br></br>

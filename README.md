@@ -54,7 +54,7 @@ LLM을 이용하여 각 한자와 부수를 임베딩한 후, 고차원 임베�
 </br></br>
 
 
-### Hugging Face Models
+### 🤗 Hugging Face Models
 
 <table>
   <tr>
@@ -108,6 +108,20 @@ LLM을 이용하여 각 한자와 부수를 임베딩한 후, 고차원 임베�
   <tr>
     <td>colorfulscoop</td>
     <td>sbert-base-ja</td>
+    <td>None</td>
+    <td>None</td>
+    <td>None</td>
+  </tr>
+  <tr>
+    <td>BAAI</td>
+    <td>bge-m3</td>
+    <td>None</td>
+    <td>None</td>
+    <td>None</td>
+  </tr>
+  <tr>
+    <td>Alibaba-NLP</td>
+    <td>gte-Qwen2-7B-instruct</td>
     <td>None</td>
     <td>None</td>
     <td>None</td>

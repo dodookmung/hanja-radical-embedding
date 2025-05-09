@@ -28,7 +28,7 @@ LLM을 이용하여 각 한자와 부수를 임베딩한 후, 고차원 임베�
     <th>FPR</th>
   </tr>
   <tr>
-    <td rowspan="4">OpenAI<td>
+    <td rowspan="4">OpenAI</td>
   </tr>
   <tr>
     <td>text-embedding-3-large</td>
@@ -72,9 +72,7 @@ LLM을 이용하여 각 한자와 부수를 임베딩한 후, 고차원 임베�
     <td>0.0000</td>
   </tr>
   <tr>
-    <td rowspan="5">sentence-transformers<td>
-  </tr>
-  <tr>
+    <td rowspan="4">sentence-transformers</td>
     <td>all-MiniLM-L6-v2</td>
     <td>0.3527</td>
     <td>0.0018</td>
@@ -127,6 +125,9 @@ LLM을 이용하여 각 한자와 부수를 임베딩한 후, 고차원 임베�
     <td>None</td>
   </tr>
 </table>
+
+
+
 
 </br></br>
 
